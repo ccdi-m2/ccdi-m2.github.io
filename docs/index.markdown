@@ -18,17 +18,17 @@ code {
   font-family: "Lucida Console", Monaco, monospace;
   font-size: 85%;
 }
+
 </style>
 
 
 <center><h1><b>M2 MoSIG</b></h1><h2>Academic year 2025/2026</h2></center>
 
 
-This specialization provides students with a comprehensive education in designing, implementing, and  optimizing cutting-edge technologies for managing large-scale data systems and cloud-based solutions. The core curriculum includes advanced coursework in Large-Scale Data Management and Databases, Cloud Computing from Infrastructures to Applications, and Information Security, offering a strong foundation in these critical domains.
+This specialization provides students with a comprehensive education in designing, implementing, and  optimizing cutting-edge technologies for managing large-scale data systems, cloud-based solutions and Information Security. This program equips graduates with the skills and knowledge to excel as Cloud Engineers, Data Architects, or IT Security Specialists, ready to address the challenges of a rapidly evolving digital landscape.
 
 Students can tailor their learning by selecting specialization modules allowing them to dive deeper into their areas of interest. Optional interdisciplinary courses from related fields, including Artificial Intelligence, Verification and Testing, and Information Visualization, provide additional opportunities for broadening expertise.
-
-Advanced topics are offered through a flexible selection of topics to explore emerging trends. This program equips graduates with the skills and knowledge to excel as Cloud Engineers, Data Architects, or IT Security Specialists, ready to address the challenges of a rapidly evolving digital landscape.
+Advanced topics are also offered through a flexible selection of topics to explore emerging trends. 
 
 <h1>Program</h1>
 
@@ -45,11 +45,13 @@ Advanced topics are offered through a flexible selection of topics to explore em
     - Virtualisation (3 ECTS - 18h)
     - Advanced Networking (6ECTS - 36h)
 
-- We offer you the possibily to select 1 unit outside the Specialization:
+- If you selected 9 ECTS in the list above, you must select 1 unit from:
     - IA (ENSIMAG lecture - 3 ECTS)
     - Verif & Test (ENSIMAG)
     - Scientific Methodology (IA)
     - Info. Visualisation (IA)
 
-<h2><b>Advanced topics</b></h2>
+
+
+<h2><b>Advanced topics (3 ECTS)</b></h2>
 - Select 24h
