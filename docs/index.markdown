@@ -32,9 +32,24 @@ Advanced topics are offered through a flexible selection of topics to explore em
 
 <h1>Program</h1>
 
-<h2><b>Mandatory</b></h2>
+<h2><b>Mandatory (15 ECTS)</b></h2>
 - Large-Scale Data-Management (6 ECTS - 36h)
 - Cloud Computing, From Infrastructures to Applications (6 ECTS - 36h)
 - Information Security (3ECTS - 18h)
 
-<h1><b>Specialization</b></h1>
+<h2><b>Specialization (12 ECTS)</b></h2>
+- Select 9 or 12 ECTS
+    - Next Generation Software Development (3 ECTS - 18h)
+    - Process Engineering (3 ECTS - 18h)
+    - Distributed Systems (3ECTS - 18h)
+    - Virtualisation (3 ECTS - 18h)
+    - Advanced Networking (6ECTS - 36h)
+
+- We offer you the possibily to select 1 unit outside the Specialization:
+    - IA (ENSIMAG lecture - 3 ECTS)
+    - Verif & Test (ENSIMAG)
+    - Scientific Methodology (IA)
+    - Info. Visualisation (IA)
+
+<h2><b>Advanced topics</b></h2>
+- Select 24h
