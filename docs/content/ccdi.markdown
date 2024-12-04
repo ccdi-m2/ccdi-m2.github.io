@@ -4,6 +4,31 @@ permalink: /ccdi/
 ---
 
 <style type="text/css">
+body {
+  font-family: Optima, Candara, Calibri, Arial, sans-serif;
+  color: black;
+}
+code {
+  font-family: "Lucida Console", Monaco, monospace;
+  font-size: 85%;
+}
+blockquote {
+  background: rgb(211, 240, 250);
+  border-left: 5px solid darkblue;
+  padding: 3px 1em 3px;
+  font-style: normal;
+  color: black;
+  letter-spacing: 0px;
+}
+
+.news {
+  background: rgb(251, 227, 227);
+  border-left: 5px solid darkblue;
+  padding: 3px 1em 3px;
+  font-style: normal;
+  color: black;
+  letter-spacing: 0px;
+}
 
 </style>
 
