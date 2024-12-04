@@ -64,7 +64,7 @@ Advanced topics are also offered through a flexible selection of topics to explo
 
 
 
-<h2><b>Advanced computer science topics (3 ECTS)</b></h2>
+<h3><b>Advanced computer science topics (3 ECTS)</b></h3>
 - Advanced Parallel Systems 
 - Access Control Models 
 - Contract-based Security 
