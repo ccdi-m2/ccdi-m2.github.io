@@ -7,7 +7,9 @@
 #  }
 # </style>
 
-layout: home
+layout: page
+title: Mosig2 - CCDI
+permalink: /ccdi/
 ---
 
 <style type="text/css">
@@ -22,7 +24,7 @@ code {
 </style>
 
 
-<center><h1><b>Cloud Computing & Data Infrastructures</b></h1><h2>Academic year 2025/2026</h2></center>
+<center><h1><b>Cloud Computing & Data Management</b></h1><h2>Academic year 2025/2026</h2></center>
 
 
 This specialization provides students with a comprehensive education in designing, implementing, and  optimizing cutting-edge technologies for managing large-scale data systems, cloud-based solutions and Information Security. This program equips graduates with the skills and knowledge to excel as Cloud Engineers, Data Architects, or IT Security Specialists, ready to address the challenges of a rapidly evolving digital landscape.
@@ -35,7 +37,7 @@ Advanced topics are also offered through a flexible selection of topics to explo
 <h2><b>Mandatory (15 ECTS)</b></h2>
 - Large-Scale Data-Management (6 ECTS - 36h)
 - Cloud Computing, From Infrastructures to Applications (6 ECTS - 36h)
-- [Information Security](/information_security/) (3ECTS - 18h)
+- Information Security (3ECTS - 18h)
 
 <h2><b>Specialization (12 ECTS)</b></h2>
 - Select 9 or 12 ECTS
@@ -46,8 +48,8 @@ Advanced topics are also offered through a flexible selection of topics to explo
     - Advanced Networking (6ECTS - 36h)
 
 - If you selected 9 ECTS in the list above, you must select 1 unit from:
-    - [Artificial Intelligence Project](https://ensimag.grenoble-inp.fr/fr/formation/artificial-intelligence-project-5mmpia) (ENSIMAG - 3 ECTS)
-    - [Models and languages for model checking](https://ensimag.grenoble-inp.fr/fr/formation/modeling-and-verification-of-concurrent-and-real-time-systems-5mmmvsc7) (ENSIMAG - 3 ECTS)
+    - IA (ENSIMAG lecture - 3 ECTS)
+    - Verif & Test (ENSIMAG)
     - Scientific Methodology (IA)
     - Info. Visualisation (IA)
 
