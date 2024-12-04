@@ -59,14 +59,10 @@ MoSIG is a highly competitive, two-year European Standard (LMD) graduate program
 
 <p>MoSIG 2 program is divided in two semesters (9 and 10).</p>
 
-* <b>Semester 9</b> offers the possibility to choose among two specializations: [Cloud Computing & Data Infrastructures](/ccdi/) and [Applied Artificial Intelligence and Interactive Systems](/applied_ai/)
+<b>Semester 9</b> offers the possibility to choose among two specializations: [Cloud Computing & Data Infrastructures](/ccdi/) and [Applied Artificial Intelligence and Interactive Systems](/applied_ai/)
 
-<table border="1">
-    <thead>
-        <tr>
-            <th>Cloud Computing & Data Infrastructures (<a href="/ccdi/">Web page</a>)</th>                
-        </tr>
-    </thead>
+- <h3>Theme 1: <b>Cloud Computing & Data Infrastructures</b> (<a href="/ccdi/">Web page</a>)</h3>
+<table border="1" style="background-color:#FFFFE0;">
     <tbody>
         <tr>
             <td><b>Description</b>: Provides students with an education in designing, implementing, and optimizing cutting-edge technologies for managing large-scale data systems, cloud-based solutions and Information Security. This program equips graduates with the skills and knowledge to excel as Cloud Engineers, Data Architects, or IT Security Specialists, ready to address the challenges of a rapidly evolving digital landscape. Students can tailor their learning by selecting specialization modules allowing them to dive deeper into their areas of interest.
@@ -75,12 +71,8 @@ MoSIG is a highly competitive, two-year European Standard (LMD) graduate program
     </tbody>
 </table>
 
-<table border="1">
-    <thead>
-        <tr>
-            <th>Applied Artificial Intelligence and Interactive Systems (<a href="/applied_ai/">Web page</a>)</th>                
-        </tr>
-    </thead>
+- <h3>Theme 2: <b>Applied Artificial Intelligence and Interactive Systems</b> (<a href="/applied_ai/">Web page</a>)</h3>
+<table border="1" style="background-color:#FFFFE0;">
     <tbody>
         <tr>
             <td><b>Description</b>: Covers a broad spectrum of technologies dealing with the application of AI techniques and interactive systems. Topics include: Natural Language Processing, Computer Vision, Robotics, Human-Computer Interaction, Computer Graphics, Information Visualization, etc. This specialization is common with <a href="https://m-ai.imag.fr/#organization-of-m2">the master 2 AI</a>.
@@ -89,7 +81,7 @@ MoSIG is a highly competitive, two-year European Standard (LMD) graduate program
     </tbody>
 </table>
 
-* <b>Semester 10</b> is dedicated to an end of studies (research or professional) project.
+<b>Semester 10</b> is dedicated to an end of studies (research or professional) project.
 
 
 
