@@ -24,7 +24,17 @@ This program is offered jointly by [Grenoble INP Ensimag](https://ensimag.grenob
 
 MoSIG is a highly competitive, two-year European Standard (LMD) graduate program. This page is dedicated to the second year of the master. For the first year please refer to [M1 website](https://m1-mosig.gricad-pages.univ-grenoble-alpes.fr).
 
-The first semester  offers the possibility to choose among two specializations: [Cloud Computing & Data Infrastructures](/ccdi/) and [Applied Artificial Intelligence and Interactive Systems](/applied_ai/)
+<blockquote>
+<p>Coursework is offered in English, and the program is open to top students holding a BSc in Computer Engineering or Computer Science (European LMD Licence), a degree in engineering, or an equivalent degree, from any country.</p>
+
+<p>For admission refer to the <a href="https://relint.imag.fr/MainEn/Admission"><b>admission section</b></a>.</p>
+</blockquote>
+
+<h2>Program</h2>
+
+<p>MoSIG 2 program is divided in two semesters (9 and 10).</p>
+
+* <b>Semester 9</b> offers the possibility to choose among two specializations: [Cloud Computing & Data Infrastructures](/ccdi/) and [Applied Artificial Intelligence and Interactive Systems](/applied_ai/)
 
 <table border="1">
     <thead>
@@ -54,7 +64,8 @@ The first semester  offers the possibility to choose among two specializations: 
     </tbody>
 </table>
 
+* <b>Semester 10</b> is dedicated to an end of studies (research or professional) project.
 
 
-* Semester 10: is dedicated to an end of studies (research or professional) project.
+
 
