@@ -83,7 +83,7 @@ MoSIG is a highly competitive, two-year European Standard (LMD) graduate program
     </thead>
     <tbody>
         <tr>
-            <td><b>Description</b>: Covers a broad spectrum of technologies dealing with the application of AI techniques and interactive systems. Topics include: Natural Language Processing, Computer Vision, Robotics, Human-Computer Interaction, Computer Graphics, Information Visualization, etc.
+            <td><b>Description</b>: Covers a broad spectrum of technologies dealing with the application of AI techniques and interactive systems. Topics include: Natural Language Processing, Computer Vision, Robotics, Human-Computer Interaction, Computer Graphics, Information Visualization, etc. This specialization is common with <a href="https://m-ai.imag.fr/#organization-of-m2">the master 2 AI</a>.
             </td>                
         </tr>
     </tbody>
